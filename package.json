@@ -1,0 +1,15 @@
+{
+  "name": "com.alzaki.tomlreaderforunity",
+  "displayName": "Toml Reader For Unity",
+  "version": "0.1.0",
+  "unity": "6000.3",
+  "unityRelease": "5f2",
+  "description": "A simple tool that can help you load a Toml file into Unity.",
+  "dependencies": {},
+  "author": {
+    "name": "Dimaz Zaki",
+    "url": "https://www.dimaz.dev",
+    "email": "hello@dimaz.dev"
+  },
+  "licensesUrl": "https://github.com/dimzki/com.alzaki.tomlreaderforunity/blob/main/LICENSE"
+}

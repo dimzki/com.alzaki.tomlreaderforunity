@@ -1,0 +1,13 @@
+# Unity meta files are needed for package
+# *.meta
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
